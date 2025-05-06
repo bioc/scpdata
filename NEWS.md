@@ -1,3 +1,13 @@
+# scpdata 1.16
+
+## scpdata 1.15.1
+
+- Fix UTF issue
+
+## scpdata 1.15.0
+
+- New release version
+
 # scpdata 1.15
 
 ## scpdata 1.15.1
